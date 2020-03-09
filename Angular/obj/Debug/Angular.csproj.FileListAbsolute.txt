@@ -76,5 +76,3 @@ C:\Users\Dharma\source\repos\Angular\obj\Debug\Angular.csprojAssemblyReference.c
 C:\Users\Dharma\source\repos\Angular\obj\Debug\Angular.csproj.CopyComplete
 C:\Users\Dharma\source\repos\Angular\obj\Debug\Angular.dll
 C:\Users\Dharma\source\repos\Angular\obj\Debug\Angular.pdb
-F:\Angular\Angular\obj\Debug\Angular.dll
-F:\Angular\Angular\obj\Debug\Angular.pdb
